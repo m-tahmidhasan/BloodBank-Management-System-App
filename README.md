@@ -2,6 +2,8 @@
 
 This is a simple desktop application for managing blood bank operations, built using Java and the NetBeans IDE.
 
+---
+
 ## 📋 Features
 
 * **Welcome Screen:** A main dashboard to navigate the application.
@@ -9,11 +11,7 @@ This is a simple desktop application for managing blood bank operations, built u
 * **Request Blood:** Provides a feature for users to search for and request blood from the donor database.
 * **Edit Records:** Includes functionality to update and manage existing donor or request records.
 
-## 🛠️ Built With
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/NetBeans-009ACE?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
+---
 
 ## 🚀 How to Run
 
@@ -35,3 +33,11 @@ Alternatively, you can run the pre-compiled Java archive (`.jar`) file:
 
 1.  Navigate to the `/dist` folder.
 2.  Run the `BloodBank.jar` file (requires Java to be installed on your system).
+
+---
+
+## 🛠️ Built With
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/NetBeans-009ACE?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
